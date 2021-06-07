@@ -13,4 +13,6 @@ para caso o time ter o goleiro fixo, o App vai fazer tal coisa, e caso não tenh
 * Exemplo: Vôlei, Handebol, Basquete...
 
 ## Libs usadas:
+* React Navigation
 * styled-components
+
